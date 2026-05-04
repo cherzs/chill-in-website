@@ -54,6 +54,11 @@ export function Footer() {
                   Instagram
                 </Link>
               </li>
+              <li>
+                <Link href="https://www.linkedin.com/in/zhafranghaly/" target="_blank" className="hover:foreground transition">
+                  LinkedIn
+                </Link>
+              </li>
             </ul>
           </div>
 
