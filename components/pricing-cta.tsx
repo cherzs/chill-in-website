@@ -20,7 +20,7 @@ export function PricingCTA() {
         </p>
 
         <Link
-          href="https://wa.me/6285220715706"
+          href="https://wa.me/6285161917939"
           target="_blank"
           className="inline-block bg-foreground text-background px-8 py-3 rounded-lg font-medium text-sm hover:opacity-90 transition"
         >

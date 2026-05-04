@@ -23,7 +23,7 @@ export function Hero() {
           petualangan Anda.
         </p>
 
-        <Link href="https://wa.me/6285220715706" target="_blank" className="inline-block text-sm font-medium group">
+        <Link href="https://wa.me/6285161917939" target="_blank" className="inline-block text-sm font-medium group">
           Jelajahi →<span className="inline-block ml-2 group-hover:translate-x-1 transition-transform">→</span>
         </Link>
       </div>

@@ -45,12 +45,12 @@ export function Footer() {
             <h3 className="text-sm font-medium mb-4">KONTAK</h3>
             <ul className="space-y-2 text-xs text-muted-foreground">
               <li>
-                <Link href="https://wa.me/6285220715706" target="_blank" className="hover:foreground transition">
+                <Link href="https://wa.me/6285161917939" target="_blank" className="hover:foreground transition">
                   WhatsApp
                 </Link>
               </li>
               <li>
-                <Link href="#" className="hover:foreground transition">
+                <Link href="https://www.instagram.com/flowcreativconsultant/" target="_blank" className="hover:foreground transition">
                   Instagram
                 </Link>
               </li>

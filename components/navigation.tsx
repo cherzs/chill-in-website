@@ -29,7 +29,7 @@ export function Navigation() {
 
         {/* Right CTA */}
         <Link
-          href="https://wa.me/6285220715706"
+          href="https://wa.me/6285161917939"
           target="_blank"
           className="text-sm tracking-tight hover:text-muted-foreground transition"
         >
